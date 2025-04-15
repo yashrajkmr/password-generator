@@ -28,9 +28,6 @@ A modern, responsive, and secure Password Generator built using HTML, CSS, and J
 - **Love Babbar Sir** – For the original concept and explanation
 - **ChatGPT (OpenAI)** – For helping modernize and polish the UI and logic
 
-## 🖼️ Screenshots
-(You can add screenshots here using `![alt text](image_url)` once you upload them.)
-
 ## 📌 Project Status
 ✅ Completed – Ready for portfolio and further upgrades.
 
