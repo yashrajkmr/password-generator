@@ -41,4 +41,4 @@ Feel free to fork, star, or raise an issue! I’m always open to suggestions or 
 ## 📬 Contact
 **Yashraj Kumar**  
 📧 yashrajkmr01@gmail.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/yashrajkmr/)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/yashraj-kumar/)
